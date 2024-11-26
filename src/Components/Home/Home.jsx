@@ -1,6 +1,6 @@
 import avatarImg from "../../assets/young-man-lapptop.png";
 import TextChange from "../TextChange";
-import resume from "../../assets/CV-Refin Maldini.pdf";
+import resume from "../../assets/CV-ATS-ID Maldini 1.pdf";
 
 const Home = () => {
   return (
