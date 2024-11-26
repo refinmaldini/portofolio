@@ -62,7 +62,7 @@ const Experience = () => {
                 Front End Web, Diskominfo Bandung
               </h2>
               <p className="text-sm leading-tight font-thin">
-                Sept 2023 - Present
+                Okt 2022 - Nov 2022
               </p>
               <ul className="text-sm p-2">
                 <li>
